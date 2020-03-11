@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Sarabun&display=swap');
+*{
+    font-family: 'Sarabun', sans-serif;
+ }
+ .main-sidebar { background-color: #00C203 !important }
+ .brand-image{background-color: #686868 !important}
